@@ -28,5 +28,5 @@ O programa oferece as seguintes funcionalidades:
 
 1. Abra o terminal.
 2. Navegue até o diretório onde o arquivo de código-fonte do programa está localizado.
-3. Compile o programa com o comando: `gcc bubbleSort.c -o bubbleSort`
-4. Execute o programa com o comando: `./bubbleSort`
+3. Compile o programa com o comando: `gcc HASH.c -o HASH`
+4. Execute o programa com o comando: `./HASH`
